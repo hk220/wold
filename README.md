@@ -5,7 +5,7 @@ simply Wake On Lan Daemon
 
 |  |URL|BODY|note|
 |--|---|----|----|
-|POST|/wakeup|{"mac": "12:34:56:78:90:af"}|Wakeup the machine having the MAC address.|
+|POST|/wake|{"mac": "12:34:56:78:90:af"}|Wakeup the machine having the MAC address.|
 
 # Install
 
